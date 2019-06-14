@@ -1,0 +1,5 @@
+section.card {
+    position: absolute;
+    display: block;
+    transform: translate(-50%, -50%);
+}
